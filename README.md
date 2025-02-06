@@ -1,16 +1,23 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/ZgTRcH0SbiLV1wolnR/giphy.gif" width="500">
+</p>
+
 <!-- Cool ASCII Art & Intro -->
 <h1 align="center">👋 Hey, I'm Niharika Shivarathri!</h1>
 
-🌟 **Computer Science Student @ UW-Madison**  
-💡 **Full-Stack Developer | AI Enthusiast | Problem Solver**  
-🚀 **Passionate about AI, Web Development & Cloud Computing**  
-📍 **Exploring Open Source, ML & Optimization**  
+## About Me
+<span style="font-size: 20px;">&gt; **Computer Science Student** @ University of Wisconsin-Madison</span>  
+<span style="font-size: 20px;">&gt; Passionate about **AI, Full-Stack Development & Optimization**</span>  
+<span style="font-size: 20px;">&gt; Building projects in **Python, Java, SQL, JavaScript**</span>  
+<span style="font-size: 20px;">&gt; Exploring **Machine Learning, Databases, and Cloud Computing**</span>  
+<span style="font-size: 20px;">&gt; Actively solving problems on **LeetCode & GitHub**</span>  
+<span style="font-size: 20px;">&gt; Looking for **exciting internships & collaborations**</span>  
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 💻 Programming Languages
+###  Programming Languages
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
@@ -21,7 +28,7 @@
 
 ---
 
-### 🌐 Frontend Development
+###  Frontend Development
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -34,7 +41,7 @@
 
 ---
 
-### 🏗️ Backend Development
+###  Backend Development
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=spring&logoColor=white)
@@ -42,19 +49,19 @@
 
 ---
 
-### 🗄️ Databases
+###  Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ---
 
-### 🤖 Machine Learning & AI
+###  Machine Learning & AI
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
 ---
 
-### ⚙️ Development Tools & Platforms
+###  Development Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
@@ -65,27 +72,27 @@
 
 ---
 
-### 🔥 Others
+###  Others
 ![Algorithm Optimization](https://img.shields.io/badge/-Algorithm%20Optimization-orange)
 ![Data Structures](https://img.shields.io/badge/-Data%20Structures-blue)
 ![Operating Systems](https://img.shields.io/badge/-Operating%20Systems-9cf)
 ![Database Management](https://img.shields.io/badge/-Database%20Management-red)
 ---
 
-## 🔥 Featured Projects
-🌎 **[Graphical Earthquake Monitor](https://github.com/shivarathriniharika/Earthquake-Monitor)**  
+##  Featured Projects
+><span style="font-size: 20px;"> **[Graphical Earthquake Monitor](https://github.com/shivarathriniharika/Earthquake-Monitor)**  
 - **Tech:** Java, JavaFX, Dijkstra’s Algorithm, GIS Mapping  
 - Implemented **real-time earthquake tracking** & optimized **evacuation routes** 🚀  
 
-💡 **[AI-Powered WhatsApp Chatbot](https://github.com/shivarathriniharika/AI-Chatbot)**  
+><span style="font-size: 20px;"> **[AI-Powered WhatsApp Chatbot](https://github.com/shivarathriniharika/AI-Chatbot)**  
 - **Tech:** OpenAI API, Twilio, Flask, Python  
 - Developed a chatbot that handles **200+ daily conversations** with **90% accuracy** 🤖  
 
-📊 **[Client Database Management System](https://github.com/shivarathriniharika/Client-DBMS)**  
+><span style="font-size: 20px;"> **[Client Database Management System](https://github.com/shivarathriniharika/Client-DBMS)**  
 - **Tech:** React, Flask, SQL, PyMongo  
 - Built a seamless **React UI**, reducing **manual data entry time by 60%** 🔥  
 
-🏥 **[Web Medical Management System](https://github.com/shivarathriniharika/Medical-DBMS)**  
+><span style="font-size: 20px;"> **[Web Medical Management System](https://github.com/shivarathriniharika/Medical-DBMS)**  
 - **Tech:** Java, JavaScript, MySQL  
 - Designed a **secure** medical database system, improving **hospital workflow** 🏥  
 
